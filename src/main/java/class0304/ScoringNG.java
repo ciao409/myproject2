@@ -7,7 +7,7 @@ public class ScoringNG {
         int[] math = {88, 75, 64, 56, 48};
         for (int i = 0; i < 5; i++) {
             if (i != 3) {
-                System.out.println(names[i] + "\t" + englishs[i] + "\t" + math[i] + "\t" + (englishs[i] + math[i]) / 2);
+                System.out.println(names[i] + "\t" + english[i] + "\t" + math[i] + "\t" + (english[i] + math[i]) / 2);
             }
         }
     }
