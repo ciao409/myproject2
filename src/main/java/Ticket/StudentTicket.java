@@ -1,4 +1,4 @@
-package class0318;
+package Ticket;
 
 public class StudentTicket extends Ticket{
     float off=0.1f;

@@ -1,4 +1,4 @@
-package class0318;
+package Ticket;
 
 public class ElderTicket extends Ticket{
     float off=0.5f;

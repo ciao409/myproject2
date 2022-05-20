@@ -1,4 +1,4 @@
-package class0318;
+package Ticket;
 
 public class Station {
     public static final Station TAIPEI_STATION=new Station(100,"Taipei");

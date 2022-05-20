@@ -1,4 +1,4 @@
-package class0311;
+package Score;
 
 public class Student {
     String name;

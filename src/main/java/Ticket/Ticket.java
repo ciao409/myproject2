@@ -1,4 +1,4 @@
-package class0318;
+package Ticket;
 
 public class Ticket {
     static final int TAIPEI_STATION=100;

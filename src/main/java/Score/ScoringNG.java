@@ -1,4 +1,4 @@
-package class0304;
+package Score;
 
 public class ScoringNG {
     public static void main(String[] args) {
