@@ -14,15 +14,16 @@ public class GuessFrame extends JFrame{
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         JButton button=new JButton("Hi");
         JLabel label=new JLabel("HaHaHa");
+        JTextField number=new JTextField(8);
         button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
-                System.out.println("Hello!");
-                label.setText("HaHo");
+                int num=Integer.parseInt(number.getText());
+                System.out.println(num);
             }
         });
         setLayout(new FlowLayout());
-
+        add(number);
         add(button);
         add(label);
         setVisible(true);

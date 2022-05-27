@@ -8,11 +8,11 @@ import java.awt.event.ActionListener;
 public class MyWindows {
     public static void main(String[] args) {
         //swing,SWT,JavaFX
-        //eXtension
+        //extension
         JFrame frame=new JFrame();
         frame.setSize(600,400);
         frame.setLocation(300,200);
-        frame.getDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         //odd Component
         JButton button=new JButton("ok");
         //匿名類別，Anonymous class
