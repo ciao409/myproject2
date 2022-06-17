@@ -1,27 +1,19 @@
-UI/MyActionListener.java
- UI.MyActionListener
 Ticket/ElderTicket.java
  Ticket.ElderTicket
 sale/MyInterface.java
  sale.MyInterface
-Score/Student.java
- Score.Student
-Ticket/Ticket.java
- Ticket.Ticket
 parking/Runner.java
  parking.Runner
-Ticket/Tester.java
- Ticket.Tester
+UI/MyWindows.java
+ UI.MyWindows
+ UI.MyWindows$1
+UI/GuessFrame.java
+ UI.GuessFrame
+ UI.GuessFrame$1
 sale/MyClass.java
  sale.MyClass
-Score/GraduateStudent.java
- Score.GraduateStudent
 Ticket/Station.java
  Ticket.Station
-HelloWorld.java
- HelloWorld
-sale/DiscountCustomer.java
- sale.DiscountCustomer
 sale/Customer.java
  sale.Customer
 sale/SilverCustomer.java
@@ -30,6 +22,8 @@ sale/SaleTest.java
  sale.SaleTest
 Score/ScoringNG.java
  Score.ScoringNG
+UI/MyFrom.java
+ UI.MyFrom
 Ticket/StudentTicket.java
  Ticket.StudentTicket
 sale/CustomerTest.java
@@ -42,3 +36,19 @@ sale/Shopping.java
  sale.Shopping
 Score/Scoring.java
  Score.Scoring
+UI/MyActionListener.java
+ UI.MyActionListener
+Score/Student.java
+ Score.Student
+Ticket/Ticket.java
+ Ticket.Ticket
+Ticket/Tester.java
+ Ticket.Tester
+Score/GraduateStudent.java
+ Score.GraduateStudent
+HelloWorld.java
+ HelloWorld
+sale/DiscountCustomer.java
+ sale.DiscountCustomer
+Score/ScoringFile.java
+ Score.ScoringFile
