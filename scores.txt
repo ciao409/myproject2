@@ -1,3 +1,3 @@
-Jack English:40 math:64
-Joy  English:85 math:76
-Jane English:64 math:70
+Jack,40,64
+Joy,85,76
+Jane,64,70,85

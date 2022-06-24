@@ -10,7 +10,7 @@ public class ScoringFile {
             //Jack
             String Line = reader.readLine();
             while (Line != null) {
-                System.out.println(Line);
+                //System.out.println(Line);
                 String[] token = Line.split(" ,");
                 String name = token[0];
                 int English = Integer.parseInt(token[1]);
